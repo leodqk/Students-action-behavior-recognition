@@ -1,15 +1,31 @@
-Hiện tại lớp học đang có **2 bạn đang đọc sách, 1 bạn đang viết**.
-
-**Lời nhận xét:**  Lớp học đang có sự kết hợp giữa đọc và viết, cho thấy học sinh đang tích cực tương tác với bài học.  Số lượng học sinh đang viết đã giảm xuống so với các khung hình trước đó, có thể là giáo viên đã kết thúc phần hướng dẫn hoặc học sinh đã hoàn thành bài tập. 
-Hiện tại lớp học đang có **2 bạn đang đọc sách**.
-
-**Lời nhận xét:**  Lớp học có vẻ đang trong giờ học và các bạn học sinh đều đang tập trung vào việc đọc sách. Đây là một tín hiệu tích cực cho thấy lớp học có sự tập trung và nghiêm túc. 
-Hiện tại lớp học đang có **4 bạn đang đọc sách**. 
-
-**Lời nhận xét:**  Lớp học đang trong giờ học và các bạn học sinh đều đang tập trung vào việc đọc sách. Đây là một tín hiệu tích cực cho thấy lớp học có sự tập trung và nghiêm túc. 
-Hiện tại lớp học đang có **3 bạn đang đọc sách, 1 bạn đang viết**.
-
-**Lời nhận xét:**  Lớp học có vẻ đang trong giờ học. Hầu hết các bạn đang tập trung vào việc đọc sách, một số bạn đang viết.  Có thể là giờ học đang chuyển sang phần ghi chép hoặc làm bài tập.  
-Hiện tại lớp học đang có **2 bạn đang đọc sách, 1 bạn đang viết**. 
-
-**Lời nhận xét:**  Lớp học có vẻ đang trong giờ học. Hầu hết các bạn đang tập trung vào việc đọc sách, một số bạn đang viết.  Có thể là giờ học đang chuyển sang phần ghi chép hoặc làm bài tập. Tuy nhiên, số lượng học sinh đang viết chiếm số ít, điều này cho thấy lớp học có thể đang trong giai đoạn chuyển tiếp giữa các hoạt động. 
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp. Vui lòng cung cấp đoạn dữ liệu bạn muốn sử dụng.
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp. Vui lòng cung cấp đoạn dữ liệu bạn muốn sử dụng.
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp. Vui lòng cung cấp đoạn dữ liệu bạn muốn sử dụng.
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp. Vui lòng cung cấp đoạn dữ liệu bạn muốn sử dụng.
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp. Vui lòng cung cấp đoạn dữ liệu bạn muốn sử dụng.
+Hiện tại lớp học đang có **5** bạn đang **ngủ** và **6** bạn đang **sử dụng điện thoại**.
+**Nhận xét:**  Có vẻ như học sinh trong lớp này đang không chú ý đến bài học.
+Vui lòng cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét dựa trên đó.
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét dựa trên nó.
+Ví dụ:
+* **Đoạn dữ liệu:** "3 reading", "1 eating", "4 talking", "2 using phone"
+* **Câu:** Hiện tại lớp học đang có 2 bạn đang sử dụng điện thoại.
+* **Nhận xét:** Có vẻ như học sinh trong lớp này đang không tập trung vào bài học.
+Hãy cung cấp đoạn dữ liệu của bạn để tôi có thể giúp bạn!
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét dựa trên nó. Vui lòng cung cấp đoạn dữ liệu! 😊
+Vui lòng cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét dựa trên nó. Hãy cho tôi biết nội dung của đoạn dữ liệu đó!
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét dựa trên nó. Hãy cho tôi biết nội dung của đoạn dữ liệu đó!
+Hiện tại lớp học đang có **5** bạn đang **ngủ** và **6** bạn đang **sử dụng điện thoại**.
+**Nhận xét:**  Có vẻ như học sinh trong lớp học này đang không chú ý đến bài học.
+Vui lòng cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp.
+Bạn cần cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo ra câu và nhận xét phù hợp. Vui lòng chia sẻ dữ liệu bạn muốn tôi sử dụng.
+Bạn cần cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo ra câu và nhận xét phù hợp. Vui lòng chia sẻ dữ liệu bạn muốn tôi sử dụng.
+Vui lòng cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp.
+Hiện tại lớp học đang có **5** bạn đang **ngủ** và **6** bạn đang **sử dụng điện thoại**.
+**Nhận xét:**  Lớp học này có vẻ đang thiếu sự tập trung.
+Vui lòng cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp.
+Bạn vui lòng cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp nhé! 😊
+Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp. Vui lòng chia sẻ đoạn dữ liệu đó để tôi hỗ trợ bạn tốt hơn! 😊
+Vui lòng cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp.
+Hiện tại lớp học đang có **5** bạn đang **ngủ** và **6** bạn đang **sử dụng điện thoại**.
+**Nhận xét:**  Có vẻ như lớp học này đang thiếu sự tập trung, cần có biện pháp để thu hút sự chú ý của học sinh.
