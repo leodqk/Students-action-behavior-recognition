@@ -29,3 +29,8 @@ Bạn cần cung cấp đoạn dữ liệu để tôi có thể tạo câu và n
 Vui lòng cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo câu và nhận xét phù hợp.
 Hiện tại lớp học đang có **5** bạn đang **ngủ** và **6** bạn đang **sử dụng điện thoại**.
 **Nhận xét:**  Có vẻ như lớp học này đang thiếu sự tập trung, cần có biện pháp để thu hút sự chú ý của học sinh.
+Hiện tại lớp học đang có **6** bạn đang **sử dụng điện thoại** và **5** bạn đang **ngủ**.
+**Nhận xét:**  Có vẻ như học sinh trong lớp đang không tập trung vào bài học.
+Bạn cần cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo câu và nhận xét. Vui lòng cho tôi biết nội dung của đoạn dữ liệu.
+Bạn cần cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo câu và nhận xét. Vui lòng cho tôi biết nội dung của đoạn dữ liệu.
+Bạn cần cung cấp cho tôi đoạn dữ liệu để tôi có thể tạo câu và nhận xét. Vui lòng cho tôi biết nội dung của đoạn dữ liệu.
